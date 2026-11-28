@@ -3,3 +3,4 @@ dist/
 .env
 src/server/films.json
 .vscode/
+local.db
